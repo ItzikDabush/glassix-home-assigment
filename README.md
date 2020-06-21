@@ -1,6 +1,6 @@
 ## Glassix - Home Assigment
 
-Demo is available at https://galssix-home-assigment.herokuapp.com/
+Demo is available at https://glassix-home-assigment.herokuapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
