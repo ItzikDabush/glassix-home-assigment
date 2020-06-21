@@ -1,0 +1,13 @@
+.Error-container {
+	color: #00bfff;
+	letter-spacing: 1rem;
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	justify-content: center;
+}
+
+button {
+	display: block;
+	cursor: pointer;
+}
